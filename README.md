@@ -230,4 +230,4 @@ Add role-based personas for advanced planning.
 Use voice/image inputs for convenience and accessibility.
 
 # Result:
-The Prompt is executed successfully
+A personalized Prompt-Based Learning Assistant that generates project ideas, guides circuit design, and simulates real-world engineering challenges for electronics and communication students. It adapts to user preferences, provides context-aware prompts, and encourages creativity and critical thinking through interactive problem-solving sessions powered by large language models.
